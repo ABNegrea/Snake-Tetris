@@ -1,0 +1,112 @@
+C:\C#\Atestat Informatica\Atestat Informatica\bin\Debug\Atestat Informatica.exe.config
+C:\C#\Atestat Informatica\Atestat Informatica\bin\Debug\Atestat Informatica.exe
+C:\C#\Atestat Informatica\Atestat Informatica\bin\Debug\Atestat Informatica.pdb
+C:\C#\Atestat Informatica\Atestat Informatica\obj\Debug\Atestat Informatica.csprojAssemblyReference.cache
+C:\C#\Atestat Informatica\Atestat Informatica\obj\Debug\Atestat_Informatica.Properties.Resources.resources
+C:\C#\Atestat Informatica\Atestat Informatica\obj\Debug\Atestat Informatica.csproj.GenerateResource.cache
+C:\C#\Atestat Informatica\Atestat Informatica\obj\Debug\Atestat Informatica.csproj.CoreCompileInputs.cache
+C:\C#\Atestat Informatica\Atestat Informatica\obj\Debug\Atestat Informatica.exe
+C:\C#\Atestat Informatica\Atestat Informatica\obj\Debug\Atestat Informatica.pdb
+C:\C#\Atestat Informatica\Atestat Informatica\obj\Debug\Atestat_Informatica.Form1.resources
+C:\C#\Atestat Informatica\Atestat Informatica\obj\Debug\Atestat_Informatica.Form2.resources
+C:\C#\Atestat Informatica\Atestat Informatica\obj\Debug\Atestat_Informatica.Form3.resources
+C:\Portofoliu C#\Atestat Informatica\Atestat Informatica\obj\Debug\Atestat Informatica.csprojAssemblyReference.cache
+C:\Portofoliu C#\Atestat Informatica\Atestat Informatica\obj\Debug\Atestat_Informatica.Form1.resources
+C:\Portofoliu C#\Atestat Informatica\Atestat Informatica\obj\Debug\Atestat_Informatica.Form2.resources
+C:\Portofoliu C#\Atestat Informatica\Atestat Informatica\obj\Debug\Atestat_Informatica.Form3.resources
+C:\Portofoliu C#\Atestat Informatica\Atestat Informatica\obj\Debug\Atestat_Informatica.Properties.Resources.resources
+C:\Portofoliu C#\Atestat Informatica\Atestat Informatica\obj\Debug\Atestat Informatica.csproj.GenerateResource.cache
+C:\Portofoliu C#\Atestat Informatica\Atestat Informatica\obj\Debug\Atestat Informatica.csproj.CoreCompileInputs.cache
+C:\Portofoliu C#\Atestat Informatica\Atestat Informatica\obj\Debug\Atestat Informatica.exe
+C:\Portofoliu C#\Atestat Informatica\Atestat Informatica\obj\Debug\Atestat Informatica.pdb
+C:\Portofoliu C#\Atestat Informatica\Atestat Informatica\bin\Debug\Atestat Informatica.exe.config
+C:\Portofoliu C#\Atestat Informatica\Atestat Informatica\bin\Debug\Atestat Informatica.exe
+C:\Portofoliu C#\Atestat Informatica\Atestat Informatica\bin\Debug\Atestat Informatica.pdb
+C:\Users\Andrei\Desktop\Proiect atestat\Atestat Informatica\bin\Debug\Atestat Informatica.exe.config
+C:\Users\Andrei\Desktop\Proiect atestat\Atestat Informatica\bin\Debug\Atestat Informatica.exe
+C:\Users\Andrei\Desktop\Proiect atestat\Atestat Informatica\bin\Debug\Atestat Informatica.pdb
+C:\Users\Andrei\Desktop\Proiect atestat\Atestat Informatica\obj\Debug\Atestat Informatica.csprojAssemblyReference.cache
+C:\Users\Andrei\Desktop\Proiect atestat\Atestat Informatica\obj\Debug\Atestat_Informatica.Form1.resources
+C:\Users\Andrei\Desktop\Proiect atestat\Atestat Informatica\obj\Debug\Atestat_Informatica.Form2.resources
+C:\Users\Andrei\Desktop\Proiect atestat\Atestat Informatica\obj\Debug\Atestat_Informatica.Form3.resources
+C:\Users\Andrei\Desktop\Proiect atestat\Atestat Informatica\obj\Debug\Atestat_Informatica.Properties.Resources.resources
+C:\Users\Andrei\Desktop\Proiect atestat\Atestat Informatica\obj\Debug\Atestat Informatica.csproj.GenerateResource.cache
+C:\Users\Andrei\Desktop\Proiect atestat\Atestat Informatica\obj\Debug\Atestat Informatica.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Proiect atestat\Atestat Informatica\obj\Debug\Atestat Informatica.exe
+C:\Users\Andrei\Desktop\Proiect atestat\Atestat Informatica\obj\Debug\Atestat Informatica.pdb
+C:\Users\Andrei\Desktop\Proiect atestat\Atestat Informatica\obj\Debug\Atestat_Informatica.Form4.resources
+C:\Users\Andrei\Desktop\Proiect atestat\Atestat Informatica\obj\Debug\Atestat_Informatica.Highscore.resources
+E:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\bin\Debug\Atestat Informatica.exe.config
+E:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\bin\Debug\Atestat Informatica.exe
+E:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\bin\Debug\Atestat Informatica.pdb
+E:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\obj\Debug\Atestat Informatica.csprojAssemblyReference.cache
+E:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\obj\Debug\Atestat_Informatica.Form1.resources
+E:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\obj\Debug\Atestat_Informatica.Form2.resources
+E:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\obj\Debug\Atestat_Informatica.Form3.resources
+E:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\obj\Debug\Atestat_Informatica.Form4.resources
+E:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\obj\Debug\Atestat_Informatica.Highscore.resources
+E:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\obj\Debug\Atestat_Informatica.Properties.Resources.resources
+E:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\obj\Debug\Atestat Informatica.csproj.GenerateResource.cache
+E:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\obj\Debug\Atestat Informatica.csproj.CoreCompileInputs.cache
+E:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\obj\Debug\Atestat Informatica.exe
+E:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\obj\Debug\Atestat Informatica.pdb
+C:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\bin\Debug\Atestat Informatica.exe.config
+C:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\bin\Debug\Atestat Informatica.exe
+C:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\bin\Debug\Atestat Informatica.pdb
+C:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\obj\Debug\Atestat Informatica.csprojAssemblyReference.cache
+C:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\obj\Debug\Atestat_Informatica.Form1.resources
+C:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\obj\Debug\Atestat_Informatica.Form2.resources
+C:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\obj\Debug\Atestat_Informatica.Form3.resources
+C:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\obj\Debug\Atestat_Informatica.Form4.resources
+C:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\obj\Debug\Atestat_Informatica.Highscore.resources
+C:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\obj\Debug\Atestat_Informatica.Properties.Resources.resources
+C:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\obj\Debug\Atestat Informatica.csproj.GenerateResource.cache
+C:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\obj\Debug\Atestat Informatica.csproj.CoreCompileInputs.cache
+C:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\obj\Debug\Atestat Informatica.exe
+C:\Scoala\Atestat informatica\Proiect atestat V2\Atestat Informatica\obj\Debug\Atestat Informatica.pdb
+C:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\bin\Debug\Atestat Informatica.exe.config
+C:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\bin\Debug\Atestat Informatica.exe
+C:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\bin\Debug\Atestat Informatica.pdb
+C:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat Informatica.csprojAssemblyReference.cache
+C:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat_Informatica.Form1.resources
+C:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat_Informatica.Form2.resources
+C:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat_Informatica.Form3.resources
+C:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat_Informatica.Form4.resources
+C:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat_Informatica.Highscore.resources
+C:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat_Informatica.Properties.Resources.resources
+C:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat Informatica.csproj.GenerateResource.cache
+C:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat Informatica.csproj.CoreCompileInputs.cache
+C:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat Informatica.exe
+C:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat Informatica.pdb
+C:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat_Informatica.Form6.resources
+D:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\bin\Debug\Atestat Informatica.exe.config
+D:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\bin\Debug\Atestat Informatica.exe
+D:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\bin\Debug\Atestat Informatica.pdb
+D:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat Informatica.csprojAssemblyReference.cache
+D:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat_Informatica.Form1.resources
+D:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat_Informatica.Form2.resources
+D:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat_Informatica.Form3.resources
+D:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat_Informatica.Form4.resources
+D:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat_Informatica.Highscore.resources
+D:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat_Informatica.Form6.resources
+D:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat_Informatica.Properties.Resources.resources
+D:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat Informatica.csproj.GenerateResource.cache
+D:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat Informatica.csproj.CoreCompileInputs.cache
+D:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat Informatica.exe
+D:\Scoala\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat Informatica.pdb
+D:\Folder Liceu\Atestat informatica\Proiect atestat V3\Atestat Informatica\bin\Debug\Atestat Informatica.exe.config
+D:\Folder Liceu\Atestat informatica\Proiect atestat V3\Atestat Informatica\bin\Debug\Atestat Informatica.exe
+D:\Folder Liceu\Atestat informatica\Proiect atestat V3\Atestat Informatica\bin\Debug\Atestat Informatica.pdb
+D:\Folder Liceu\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat_Informatica.Form1.resources
+D:\Folder Liceu\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat_Informatica.Form2.resources
+D:\Folder Liceu\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat_Informatica.Form3.resources
+D:\Folder Liceu\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat_Informatica.Form4.resources
+D:\Folder Liceu\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat_Informatica.Highscore.resources
+D:\Folder Liceu\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat_Informatica.Form6.resources
+D:\Folder Liceu\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat_Informatica.Properties.Resources.resources
+D:\Folder Liceu\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat Informatica.csproj.GenerateResource.cache
+D:\Folder Liceu\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat Informatica.csproj.CoreCompileInputs.cache
+D:\Folder Liceu\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat Informatica.exe
+D:\Folder Liceu\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat Informatica.pdb
+D:\Folder Liceu\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat Informatica.csproj.AssemblyReference.cache
+D:\Folder Liceu\Atestat informatica\Proiect atestat V3\Atestat Informatica\obj\Debug\Atestat Informatica.csproj.SuggestedBindingRedirects.cache
